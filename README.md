@@ -5,12 +5,14 @@ A fee management application where admin can add/edit/view/delete accountant and
 Users of the System
 Admin
 Accountant
+
 Functional Requirements
 1. Admin
 Can login
 Can add/view/edit/delete accountant
 Can logout
-2. Accountant
+
+3. Accountant
 Can login
 Can add/view/edit/delete students
 Can check due fee
