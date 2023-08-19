@@ -1,20 +1,20 @@
 # Fee_Management_System
-Objective/ Vision
-A fee management application where admin can add/edit/view/delete accountant and accountant can add/view/edit/delete student, check due fee and logout.
+#Objective
+This system can be used by registered users to pay fees.
+The admin can keep track of all the transactions.
 
-Users of the System
+#Users of the System
+1] Admin
+2] Registered User
 
-Admin
-Accountant
-
-Functional Requirements
+#Functional Requirements
 1. Admin
 Can login
-Can add/view/edit/delete accountant
+Can add/view/edit/delete user
 Can logout
 
-3. Accountant
+2. Registered User
 Can login
-Can add/view/edit/delete students
+Can Pay Fee
 Can check due fee
 Can logout
