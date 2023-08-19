@@ -9,12 +9,12 @@ The admin can keep track of all the transactions.
 
 #Functional Requirements
 1. Admin
-Can login
-Can add/view/edit/delete user
+Can login,
+Can add/view/edit/delete user,
 Can logout
 
 2. Registered User
-Can login
-Can Pay Fee
-Can check due fee
-Can logout
+Can login,
+Can Pay Fee,
+Can check due fee,
+Can logout.
